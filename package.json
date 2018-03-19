@@ -1,0 +1,11 @@
+{
+  "name": "endah",
+  "version": "1.0.0",
+  "description": "Proyek Pertama",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Endah sk",
+  "license": "ISC"
+}
